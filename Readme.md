@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Даша](https://up.htmlacademy.ru/javascript/21/user/1441633).
-* Наставник: `Неизвестно`.
+* Наставник: `Олег Глущенко`.
 
 ---
 
